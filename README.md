@@ -4,7 +4,7 @@ Like my A1200 project (see my other repos) this is a mechanical keyboard for an 
 
 To make this project you need:
 - PCBs, which you can make by sending the contents of the 'fab' folder to your local PCB maker.
-- 3D printed parts: the STL files are in the STL folder
+- 3D printed parts: the STL files are in the STL folder. I used a Prusa MK3S 0.25mm nozzle, Urban Grey PETG.
 - 78 MX PCB-mount switches
 - 32-way FFC connector (Mouser part number 538-52044-3245)
 - 32-way ribbon cable (Mouser part number 538-15168-0400)
