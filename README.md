@@ -16,6 +16,6 @@ For more details about design choices and putting it together please see the art
 
 Enjoy!
 
-Warning! There is a bug in this keyboard design. Many people have built it and never noticed, but this can be a problem with software (trackers) that uses the two keys affected. The PCB as-is shoul dbe modified according to the diagram shown here.
+Warning! There is a bug in this keyboard design. Many people have built it and never noticed, but this can be a problem with software (trackers) that uses the two keys affected. The PCB as-is should be modified according to the diagram shown here.
 ![How to fix swapped keys](/A600-kb-fix.jpg?raw=true "Required Modification")
 One of these days I will update the PCB files but until then this will be useful to those who have one and notice a problem.
