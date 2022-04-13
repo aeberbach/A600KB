@@ -16,6 +16,11 @@ For more details about design choices and putting it together please see the art
 
 Enjoy!
 
-Warning! There is a bug in this keyboard design. Many people have built it and never noticed, but this can be a problem with software (trackers) that uses the two keys affected. The PCB as-is should be modified according to the diagram shown here.
-![How to fix swapped keys](/A600-kb-fix.jpg?raw=true "Required Modification")
+Warning! There is a bug in this keyboard design. Many people have built it and never noticed, but this can be a problem with software (trackers) that uses the two keys affected. The PCB as-is should be modified:
+
+Line 5: disconnect from MX63 (< ,) column; connect to MX79 (" ') column
+Line 7: disconnect from MX79 (" ') column; connect to MX63 (< ,) column
+Line 23: disconnect from MX79 (" ') row; connect to MX63 (< ,) row
+Line 26: disconnect from MX63 (< ,) row; connect to MX79 (" ') row
+
 One of these days I will update the PCB files but until then this will be useful to those who have one and notice a problem.
