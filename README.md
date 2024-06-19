@@ -27,3 +27,5 @@ Many people have built it and never noticed. That goes for me too - one person c
 - Line 26: disconnect from MX63 (< ,) row; connect to MX79 (" ') row
 
 The PCB has been revised to revision 2 (the same as Commodore's schematic) now so this is fixed, but if you have a revision 1 and notice the ' and , appear to be swapped then you may need to apply this change.
+
+Note this this project is licensed under CC BY-NC-SA 4.0 - only noncommercial use is permitted! (By all means sell the excess PCBs you get, at cost, if you order some for your own use)
