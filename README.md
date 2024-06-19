@@ -19,7 +19,8 @@ Enjoy!
 May 2022 Update - this is now release 2. Apart from correcting swapped keys that existed in revision 1 (see below) I made a lot of traces simpler. I used KiCAD 6 for this, it just keeps getting better. If you build a revision 2 I would love to hear about it.
 
 Revision 1 Errata:
-Many people have built it and never noticed. That goes for me too - one person contacted me and said they were having trouble with some music tracker software because it relies on the keys that are not in the right place. The revision 1 PCB should be modified:
+Many people have built it and never noticed. That goes for me too - one person contacted me and said they were having trouble with some music tracker software because it relies on the keys that are not in the right place. I had not noticed because I had not been using software that relied on those
+keys - sorry if you were affected! The revision 1 PCB should be modified:
 
 - Line 5: disconnect from MX63 (< ,) column; connect to MX79 (" ') column
 - Line 7: disconnect from MX79 (" ') column; connect to MX63 (< ,) column
