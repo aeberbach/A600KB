@@ -1,4 +1,4 @@
-# A600KB: Mechanical keyboard project for Amiga 600
+# A600KB: Mechanical keyboard Amiga A600
 
 Like my A1200 project (see my other repos) this is a mechanical keyboard for an Amiga computer.
 
