@@ -1,4 +1,4 @@
-# A600KB: Mechanical keyboard project for Amiga 600
+# A600KB: Mechanical keyboard Amiga A600
 
 Like my A1200 project (see my other repos) this is a mechanical keyboard for an Amiga computer.
 
@@ -28,3 +28,5 @@ keys - sorry if you were affected! The revision 1 PCB should be modified:
 - Line 26: disconnect from MX63 (< ,) row; connect to MX79 (" ') row
 
 The PCB has been revised to revision 2 (the same as Commodore's schematic) now so this is fixed, but if you have a revision 1 and notice the ' and , appear to be swapped then you may need to apply this change.
+
+Note this this project is licensed under CC BY-NC-SA 4.0 - only noncommercial use is permitted! (By all means sell the excess PCBs you get, at cost, if you order some for your own use)
